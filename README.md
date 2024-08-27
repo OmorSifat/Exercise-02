@@ -1,6 +1,5 @@
-# Exercise-02
 
+# Assignment-02 List:
 
-# Assignment List:
-
-# o1 Create a Cat Website.
+# 01 Create a Cat Website.
+# 02 Create a All Animals Website.
